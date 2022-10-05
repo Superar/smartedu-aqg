@@ -1,0 +1,277 @@
+[
+    {
+        "Gold Question": "Em que é que a teoria de motivação de Herzberg se diferencia  da de Maslow?",
+        "Automatic Question": "Segundo Herzberg, qual é a principal razão pela qual as necessidades de uma pessoa podem ser suprimidas?",
+        "Answer": "As necessidades primárias (Maslow) não permitem motivar, apenas impedem a insatisfação.",
+        "Context": [
+            "A insatisfação combate-se atuando sobre os fatores do ambiente profissional, como condições de trabalho, estabilidade no emprego e benefícios sociais. Mas de nada servirá insistir nestes aspetos para dar o salto seguinte e estimular a motivação, pois para que os colaboradores se sintam motivados necessitam satisfazer as suas necessidades secundárias, que estão intrinsecamente relacionadas com a atividade profissional, como a responsabilidade, a relação com os outros, os desafios ao seu desenvolvimento, etc.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização)."
+        ],
+        "BLEU": 0.015226277779914149,
+        "ROUGE": {
+            "rouge1": [
+                0.23529411764705882,
+                0.26666666666666666,
+                0.25
+            ],
+            "rougeL": [
+                0.17647058823529413,
+                0.2,
+                0.18750000000000003
+            ]
+        }
+    },
+    {
+        "Gold Question": "Quais são os dois fatores da teoria de motivação de Herzberg?",
+        "Automatic Question": "Quais são os dois fatores que determinam a motivação das pessoas?",
+        "Answer": "Satisfacientes e motivacionais",
+        "Context": [
+            "Os fatores Intrínsecos relacionam-se com o trabalho em si mesmo e estão sob o controle do indivíduo: o crescimento pessoal, a paixão pelo trabalho, a responsabilidade social, a oportunidade de progresso, o respeito, o reconhecimento e o sentimento de realização.",
+            "Comparação entre teorias: Maslow e Herzberg",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização).",
+            "Vejamos agora como a teoria de Herzberg e de Maslow se comparam e de que forma se podem complementar para dar resposta aos desafios motivacionais numa organização.",
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos."
+        ],
+        "BLEU": 0.3448444257953326,
+        "ROUGE": {
+            "rouge1": [
+                0.6153846153846154,
+                0.6153846153846154,
+                0.6153846153846154
+            ],
+            "rougeL": [
+                0.6153846153846154,
+                0.6153846153846154,
+                0.6153846153846154
+            ]
+        }
+    },
+    {
+        "Gold Question": "Quais são os dois fatores da teoria de motivação de Herzberg?",
+        "Automatic Question": "Quais são os dois fatores que determinam a motivação das pessoas?",
+        "Answer": "Fatores higiénicos e fatores motivacionais",
+        "Context": [
+            "Os fatores Intrínsecos relacionam-se com o trabalho em si mesmo e estão sob o controle do indivíduo: o crescimento pessoal, a paixão pelo trabalho, a responsabilidade social, a oportunidade de progresso, o respeito, o reconhecimento e o sentimento de realização.",
+            "Comparação entre teorias: Maslow e Herzberg",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização).",
+            "Vejamos agora como a teoria de Herzberg e de Maslow se comparam e de que forma se podem complementar para dar resposta aos desafios motivacionais numa organização.",
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos."
+        ],
+        "BLEU": 0.3448444257953326,
+        "ROUGE": {
+            "rouge1": [
+                0.6153846153846154,
+                0.6153846153846154,
+                0.6153846153846154
+            ],
+            "rougeL": [
+                0.6153846153846154,
+                0.6153846153846154,
+                0.6153846153846154
+            ]
+        }
+    },
+    {
+        "Gold Question": "Quais são os dois fatores da teoria de motivação de Herzberg?",
+        "Automatic Question": "De acordo com Herzberg, a motivação das pessoas depende de quais dois fatores?",
+        "Answer": "Fatores satisfacientes (ou higiénicos) e fatores motivacionais",
+        "Context": [
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "As necessidades de Ego (ou de estima) são, segundo Herzberg, satisfeitas através do reconhecimento obtido e do status que a atividade profissional lhe permite alcançar.",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização).",
+            "Vejamos agora como a teoria de Herzberg e de Maslow se comparam e de que forma se podem complementar para dar resposta aos desafios motivacionais numa organização.",
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos."
+        ],
+        "BLEU": 0.036787632499277766,
+        "ROUGE": {
+            "rouge1": [
+                0.5714285714285714,
+                0.6153846153846154,
+                0.5925925925925927
+            ],
+            "rougeL": [
+                0.2857142857142857,
+                0.3076923076923077,
+                0.29629629629629634
+            ]
+        }
+    },
+    {
+        "Gold Question": "De acordo com a teoria de Herzberg, o saláro é um fator satisfaciente ou motivacional?",
+        "Automatic Question": "Qual é outro termo para os fatores higiênicos ou Extrínscos?",
+        "Answer": "Satisfaciente: salários elevados produzem satisfação, mas não garantem a motivação",
+        "Context": [
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos.",
+            "A metodologia de investigação de Herzberg tem sido questionada por alguns investigadores, existindo alguns estudos que indicam que nalgumas organizações as condições salariais podem ser fatores motivadores, nomeadamente quando são percepcionadas como reconhecimento, satisfazendo necessidades de estima, pelo que a teoria de Herzberg negligencia a variável situacional na motivação, não se podendo concluir que seja aplicável a todas as organizações. Contudo, este autor teve o mérito de chamar a atenção para a diferenciação entre fatores extrínsecos e fatores intrínsecos ao trabalho e como, apesar de serem independentes, ambos são importantes para elevar o desempenho da força de trabalho. Esta diferenciação entre motivação extrínseca e motivação intrínseca viria posteriormente a ser estudada cada vez mais profundamente pelos investigadores que lhe sucederam.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação."
+        ],
+        "BLEU": 0.01437841846606559,
+        "ROUGE": {
+            "rouge1": [
+                0.09090909090909091,
+                0.06666666666666667,
+                0.07692307692307691
+            ],
+            "rougeL": [
+                0.09090909090909091,
+                0.06666666666666667,
+                0.07692307692307691
+            ]
+        }
+    },
+    {
+        "Gold Question": "De acordo com a teoria de Herzberg, o saláro é um fator satisfaciente ou motivacional?",
+        "Automatic Question": "Quais são os dois fatores que os teóricos de Herzberg acreditam ser diferente dos fatores higiênicos?",
+        "Answer": "Satisfaciente (ou higiénico): salários elevados produzem satisfação, não motivação",
+        "Context": [
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos.",
+            "A metodologia de investigação de Herzberg tem sido questionada por alguns investigadores, existindo alguns estudos que indicam que nalgumas organizações as condições salariais podem ser fatores motivadores, nomeadamente quando são percepcionadas como reconhecimento, satisfazendo necessidades de estima, pelo que a teoria de Herzberg negligencia a variável situacional na motivação, não se podendo concluir que seja aplicável a todas as organizações. Contudo, este autor teve o mérito de chamar a atenção para a diferenciação entre fatores extrínsecos e fatores intrínsecos ao trabalho e como, apesar de serem independentes, ambos são importantes para elevar o desempenho da força de trabalho. Esta diferenciação entre motivação extrínseca e motivação intrínseca viria posteriormente a ser estudada cada vez mais profundamente pelos investigadores que lhe sucederam.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação."
+        ],
+        "BLEU": 0.026920508809559315,
+        "ROUGE": {
+            "rouge1": [
+                0.15789473684210525,
+                0.2,
+                0.17647058823529413
+            ],
+            "rougeL": [
+                0.10526315789473684,
+                0.13333333333333333,
+                0.11764705882352941
+            ]
+        }
+    },
+    {
+        "Gold Question": "O estilo de supervsão pode melhorar a motivação, segundo Herzberg?",
+        "Automatic Question": "O que Herzberg teoriza sobre a motivação para um supervisor?",
+        "Answer": "Sim, a forma como um supervisor comunica e se relaciona pode aumentar a motivação",
+        "Context": [
+            "Frederick Herzberg apresentou a sua teoria em 1968 e desenvolveu-a com um foco específico na motivação para o trabalho, onde estudou tanto o ambiente externo como o trabalho do indivíduo.",
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos.",
+            "A metodologia de investigação de Herzberg tem sido questionada por alguns investigadores, existindo alguns estudos que indicam que nalgumas organizações as condições salariais podem ser fatores motivadores, nomeadamente quando são percepcionadas como reconhecimento, satisfazendo necessidades de estima, pelo que a teoria de Herzberg negligencia a variável situacional na motivação, não se podendo concluir que seja aplicável a todas as organizações. Contudo, este autor teve o mérito de chamar a atenção para a diferenciação entre fatores extrínsecos e fatores intrínsecos ao trabalho e como, apesar de serem independentes, ambos são importantes para elevar o desempenho da força de trabalho. Esta diferenciação entre motivação extrínseca e motivação intrínseca viria posteriormente a ser estudada cada vez mais profundamente pelos investigadores que lhe sucederam.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação."
+        ],
+        "BLEU": 0.04576989215762564,
+        "ROUGE": {
+            "rouge1": [
+                0.45454545454545453,
+                0.4166666666666667,
+                0.43478260869565216
+            ],
+            "rougeL": [
+                0.36363636363636365,
+                0.3333333333333333,
+                0.34782608695652173
+            ]
+        }
+    },
+    {
+        "Gold Question": "O estilo de supervsão pode melhorar a motivação, segundo Herzberg?",
+        "Automatic Question": "Qual é a crença principal da teoria de Maslow sobre a motivação?",
+        "Answer": "Sim, é uma das formas de satisfazer necessidades sociais (um dos fatores motivacionais)",
+        "Context": [
+            "A insatisfação combate-se atuando sobre os fatores do ambiente profissional, como condições de trabalho, estabilidade no emprego e benefícios sociais. Mas de nada servirá insistir nestes aspetos para dar o salto seguinte e estimular a motivação, pois para que os colaboradores se sintam motivados necessitam satisfazer as suas necessidades secundárias, que estão intrinsecamente relacionadas com a atividade profissional, como a responsabilidade, a relação com os outros, os desafios ao seu desenvolvimento, etc.",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "Vejamos agora como a teoria de Herzberg e de Maslow se comparam e de que forma se podem complementar para dar resposta aos desafios motivacionais numa organização.",
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos.",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização)."
+        ],
+        "BLEU": 0.039073802494525016,
+        "ROUGE": {
+            "rouge1": [
+                0.3076923076923077,
+                0.3333333333333333,
+                0.32
+            ],
+            "rougeL": [
+                0.3076923076923077,
+                0.3333333333333333,
+                0.32
+            ]
+        }
+    },
+    {
+        "Gold Question": "O estilo de supervsão pode melhorar a motivação, segundo Herzberg?",
+        "Automatic Question": "Quais são os fatores - chave que afetam o comportamento de uma pessoa?",
+        "Answer": "Sim, tal como as relações com colegas e com subordinados. Satisfazem necessidades sociais ",
+        "Context": [
+            "As necessidades de segurança, satisfazem-se através da supervisão técnica, de políticas da organização e da segurança no emprego.",
+            "As necessidades fisiológicas são satisfeitas, no contexto do trabalho, com base nos salários, nas condições físicas do trabalho e nos benefícios sociais.",
+            "Aos fatores que permitem a satisfação das duas necessidades primárias de Maslow, Herzberg chamou de Extrínsecos. De acordo com Herzberg, só depois de eliminar a insatisfação, se pode motivar o colaborador. E esses fatores motivacionais são intrínsecos à atividade profissional, correspondendo ao que Maslow entendia satisfazer as necessidades do topo da pirâmides (sociais, de estima e de autorrealização).",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "As necessidades sociais são satisfeitas através do relacionamento interpessoal que o trabalho possibilita, através do estilo de supervisão a que o colaborador está sujeitos e das relações entre colegas, chefias e subordinados."
+        ],
+        "BLEU": 0.0169861974906263,
+        "ROUGE": {
+            "rouge1": [
+                0.23076923076923078,
+                0.25,
+                0.24000000000000002
+            ],
+            "rougeL": [
+                0.15384615384615385,
+                0.16666666666666666,
+                0.16
+            ]
+        }
+    },
+    {
+        "Gold Question": "Mesmo com um bom salário e bom ambiente entre colegas e supervisores, a motivação pode ser baixa?",
+        "Automatic Question": "Segundo Herzberg, quais fatores influenciariam a motivação por causa da motivação ou não da motivação?",
+        "Answer": "Sim, pois essas não são as únicas condições para garantirem a satisfação nem a motivação",
+        "Context": [
+            "Para ele, a motivação das pessoas dependia de dois fatores:  Fatores higiénicos ou Extrínsecos (também denominados Satisfacientes) e Fatores motivacionais ou intrínsecos.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "A metodologia de investigação de Herzberg tem sido questionada por alguns investigadores, existindo alguns estudos que indicam que nalgumas organizações as condições salariais podem ser fatores motivadores, nomeadamente quando são percepcionadas como reconhecimento, satisfazendo necessidades de estima, pelo que a teoria de Herzberg negligencia a variável situacional na motivação, não se podendo concluir que seja aplicável a todas as organizações. Contudo, este autor teve o mérito de chamar a atenção para a diferenciação entre fatores extrínsecos e fatores intrínsecos ao trabalho e como, apesar de serem independentes, ambos são importantes para elevar o desempenho da força de trabalho. Esta diferenciação entre motivação extrínseca e motivação intrínseca viria posteriormente a ser estudada cada vez mais profundamente pelos investigadores que lhe sucederam.",
+            "Ao compararmos a teoria de Maslow com a de Herzberg para explicar a motivação no contexto organizacional, verificamos que os dois fatores de Herzberg se relacionam com os dois grupos de necessidades da pirâmide de Maslow: os fatores extrínsecos de Herzberg permitem a satisfação das necessidades primárias de Maslow e os fatores intrínsecos a satisfação das necessidades secundárias.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação."
+        ],
+        "BLEU": 0.025717247215323175,
+        "ROUGE": {
+            "rouge1": [
+                0.15789473684210525,
+                0.15789473684210525,
+                0.15789473684210525
+            ],
+            "rougeL": [
+                0.15789473684210525,
+                0.15789473684210525,
+                0.15789473684210525
+            ]
+        }
+    },
+    {
+        "Gold Question": "Mesmo com um bom salário e bom ambiente entre colegas e supervisores, a motivação pode ser baixa?",
+        "Automatic Question": "Segundo Herzberg, qual teoria está em conflito direto com a motivação por causa da motivação?",
+        "Answer": "Sim, segundo Herzberg, o trabalho em si mesmo e o reconhecimento interferem na motivação",
+        "Context": [
+            "Frederick Herzberg apresentou a sua teoria em 1968 e desenvolveu-a com um foco específico na motivação para o trabalho, onde estudou tanto o ambiente externo como o trabalho do indivíduo.",
+            "Os fatores Intrínsecos relacionam-se com o trabalho em si mesmo e estão sob o controle do indivíduo: o crescimento pessoal, a paixão pelo trabalho, a responsabilidade social, a oportunidade de progresso, o respeito, o reconhecimento e o sentimento de realização.",
+            "Herzberg postula que o fornecimento completo de Fatores Extrínsecos não resultará em motivação para o trabalho, mas são importantes para evitar a insatisfação. Controlada a insatisfação, a motivação para o trabalho é alcançada através dos Fatores Intrínsecos e assim se conseguirá aumentar o desempenho ou a produtividade dos funcionários.",
+            "A metodologia de investigação de Herzberg tem sido questionada por alguns investigadores, existindo alguns estudos que indicam que nalgumas organizações as condições salariais podem ser fatores motivadores, nomeadamente quando são percepcionadas como reconhecimento, satisfazendo necessidades de estima, pelo que a teoria de Herzberg negligencia a variável situacional na motivação, não se podendo concluir que seja aplicável a todas as organizações. Contudo, este autor teve o mérito de chamar a atenção para a diferenciação entre fatores extrínsecos e fatores intrínsecos ao trabalho e como, apesar de serem independentes, ambos são importantes para elevar o desempenho da força de trabalho. Esta diferenciação entre motivação extrínseca e motivação intrínseca viria posteriormente a ser estudada cada vez mais profundamente pelos investigadores que lhe sucederam.",
+            "Em resumo, a motivação profissional enfrenta dois grandes desafios: evitar a insatisfação dos colaboradores e alimentar posteriormente a sua motivação."
+        ],
+        "BLEU": 0.027192678180279588,
+        "ROUGE": {
+            "rouge1": [
+                0.23529411764705882,
+                0.21052631578947367,
+                0.2222222222222222
+            ],
+            "rougeL": [
+                0.23529411764705882,
+                0.21052631578947367,
+                0.2222222222222222
+            ]
+        }
+    }
+]
