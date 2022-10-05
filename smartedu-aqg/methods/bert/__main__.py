@@ -33,18 +33,22 @@ parser.add_argument('--simmodel', '-M', type=str,
                     help='Fine-tuned BERT model for sentence similarity.')
 args = parser.parse_args()
 
+# Read input file
 with args.file.open('rU', encoding='utf-8') as file_:
     text = [l.rstrip() for l in file_.readlines() if l.rstrip()]
 
+# Read answers file
 with args.answers.open('rU', encoding='utf-8') as file_:
     answer_df = pd.read_json(file_, orient='records')
     answers = answer_df['Answer'].tolist()
 
+# Create context
 if args.similarity == 'tfidf':
     context_indices = tfidf.create_context(args.tfidf, text, answers)
 elif args.similarity == 'bert':
     context_indices = bert.create_context(text, answers, args.simmodel)
 
+# Generate questions
 logger = list()
 tokenizer, aqg = create_model(args.model)
 for i, idx in enumerate(context_indices):
