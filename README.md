@@ -4,6 +4,8 @@ This repository contains the AQG tool developed within the SmartEDU project.
 
 ## Installing dependencies
 
+The python version for this project is Python 3.9.
+
 The first files are related to the python required packages. `Pipfile` and `Pipfile.lock` for `pipenv` and `requirements.txt` for vanilla `pip`.
 
 To install using `pipenv`, run
